@@ -4,7 +4,7 @@
 using namespace std;
 
 int main () {
-cout << "Sveikas Pasauli!"; 
+cout << "Pakeitimas"; 
 
 return 0; 
 }
